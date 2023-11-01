@@ -28,5 +28,5 @@
 </ul>
 
 [![codewars](https://www.codewars.com/users/MotoPhase/badges/large)](https://www.codewars.com/users/MotoPhase)
-[![codewars](https://www.codewars.com/users/T-Moto/badges/small)](https://www.codewars.com/users/T-Moto)
+[![codewars](https://www.codewars.com/users/T-Moto/badges/large)](https://www.codewars.com/users/T-Moto)
 
