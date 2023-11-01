@@ -37,3 +37,5 @@
    
   <li>⚡ Завершил курс по Go разработке в GeekBrains.</a></li>
 </ul>
+
+[![codewars](https://www.codewars.com/users/MotoPhase/badges/large)](https://www.codewars.com/users/MotoPhase)
