@@ -28,4 +28,5 @@
 </ul>
 
 <h3 align="left">Codewars:</h3>
-[![codewars](https://www.codewars.com/users/MotoPhase/badges/large)](https://www.codewars.com/users/MotoPhase)
+
+[![codewars](https://www.codewars.com/users/username/MotoPhase/large)](https://www.codewars.com/users/MotoPhase) 
