@@ -1,17 +1,6 @@
 <h1 align="center">Привет, меня зовут Матвей!</h1>
 <p>Я backend разработчик. Мой путь в it начался с курсов SkillFactory, на которых я получил первые базовые знания. На тот момент активно увлекался data science. После был промежуток в пару месяцев, где я пробовал себя во многих направлениях, изучал языки C/С++, Python, но больше всего меня зацепила backend разработка. С марта 2023 года по август 2023 я изучал backend разработку на курсах GeekBrains. В настоящий момент мое обучение на курсе завершено и я в поисках своей первой работы!</p>
-<style>
-   hr {
-    border: none;
-    background-color: red;
-    color: red;
-    height: 2px;
-   }
-  </style>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
 <h3 align="left">Backend:</h3>
 
@@ -38,4 +27,5 @@
   <li>⚡ Завершил курс по Go разработке в GeekBrains.</a></li>
 </ul>
 
+<h3 align="left">Codewars:</h3>
 [![codewars](https://www.codewars.com/users/MotoPhase/badges/large)](https://www.codewars.com/users/MotoPhase)
